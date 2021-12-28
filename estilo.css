@@ -1,0 +1,16 @@
+h1 {
+   background-color: #00ffff;
+   color:black
+}
+
+body {
+    background-color: rgb(70, 70, 211);
+}
+
+a {
+    color: blue;
+}
+
+.texto {
+    color: rgb(29, 192, 14);
+}
